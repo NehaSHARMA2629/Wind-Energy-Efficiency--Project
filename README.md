@@ -1,14 +1,11 @@
-Wind-Energy Project Objective
+# Project Objective
 
-Wind energy harnesses the power of wind to generate electricity. This renewable energy source is clean, sustainable, and one of the fastest-growing power sources in the world. Wind turbines convert the kinetic energy of wind into mechanical power, which is then transformed into electricity.
-
-## Objective
-The objective of this project is to analyze the efficiency of wind turbines by comparing the actual power output to the theoretical maximum power output based on wind speed data. The project aims to:
+Wind energy harnesses the power of wind to generate electricity. This renewable energy source is clean, sustainable, and one of the fastest-growing power sources in the world. Wind turbines convert the kinetic energy of wind into mechanical power, which is then transformed into electricity. The objective of this project is to analyze the efficiency of wind turbines by comparing the actual power output to the theoretical maximum power output based on wind speed data. The project aims to:
 
 Determine Wind Turbine Efficiency: Calculate the efficiency of wind turbines using the ratio of actual power output to the theoretical power available in the wind.
 Analyze and Visualize Data: Provide insights into the performance of wind turbines over time through data analysis and visualization.
 Predict Power Output: Develop predictive models to forecast power output based on wind speed and other relevant parameters.                                                                                                                                                                                                                   
-## Conclusion
+# Conclusion
 
 The project successfully analyzed the efficiency of wind turbines by integrating and processing wind speed and power output data. Key findings include:
 
